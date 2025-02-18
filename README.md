@@ -64,18 +64,11 @@
 - Interesse em **desenvolver jogos** e experimentos com **Roblox** 🎮;
 - Desenvolvendo um jogo na Plataforma **Roblox**;
 #
-# Social 📱
-
-### Usuário:
-![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?style=for-the-badge&logo=amazonprime&logoColor=white)
-![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 # 📧 Contatos 
 <a href="https://mail.google.com/mail/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-costa-mendes-3498a8349/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
-<a href="https://discord.com/channels/@reverso_arc" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 <div align="center">
 <p><b>Visitantes</b></p>  
