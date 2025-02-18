@@ -12,8 +12,11 @@
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=GabrielCosta05&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
- 
-# Meus Conhecimentos:
+
+<div align="center">
+
+# 🧠 Conhecimentos 🧠
+</div>
 
 ### Linguaguens:
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,6 +48,9 @@
 ### Estudando:
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
+# Contatos
+<a href="https://www.linkedin.com/in/gabriel-costa-mendes-3498a8349/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" target="_blank"></a>
+<a href="https://www.linkedin.com/in/cauã-alex-morales-55479b286/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <div align="center">
 <p><b>Visitantes</b></p>  
