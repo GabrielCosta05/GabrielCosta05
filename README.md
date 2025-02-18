@@ -16,7 +16,9 @@
 
 <div align="center">
 
-# 🧠 Conhecimentos 🧠
+#
+
+# 🧠 Conhecimentos 
 </div>
 
 ### Linguaguens:
@@ -33,7 +35,6 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-
 ### Ferramentas:
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -45,13 +46,36 @@
 ### DataBase:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+### Sistemas Operacionais:
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
   
 ### Estudando:
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+#
+# Sobre mim 📑
 
-# Contatos
+### Formação Acadêmica:
+- Técnico em **Desenvolvimento de Sistemas** pela **Etec de Hortolândia** 🎓.
+### Indo atrás:
+- Interesse em **desenvolver jogos** e experimentos com **Roblox** 🎮;
+- Desenvolvendo um jogo na Plataforma **Roblox**;
+#
+# Social 📱
+
+### Usuário:
+![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?style=for-the-badge&logo=amazonprime&logoColor=white)
+![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+
+# 📧 Contatos 
 <a href="https://mail.google.com/mail/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gabriel-costa-mendes-3498a8349/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gabriel-costa-mendes-3498a8349/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+<a href="https://discord.com/channels/@reverso_arc" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 <div align="center">
 <p><b>Visitantes</b></p>  
