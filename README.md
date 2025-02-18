@@ -50,7 +50,7 @@
 
 # Contatos
 <a href="https://www.linkedin.com/in/gabriel-costa-mendes-3498a8349/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" target="_blank"></a>
-<a href="https://www.linkedin.com/in/cauã-alex-morales-55479b286/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gabriel-costa-mendes-3498a8349/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <div align="center">
 <p><b>Visitantes</b></p>  
