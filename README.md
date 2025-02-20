@@ -14,9 +14,9 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=GabrielCosta05&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
-<div align="center">
-
 ---
+
+<div align="center">
 
 # 🧠 Conhecimentos 
 </div>
